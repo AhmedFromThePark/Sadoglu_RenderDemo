@@ -1,0 +1,33 @@
+@import url('https://fonts.cdnfonts.com/css/olde-english');
+
+body{
+  background: rgb(0, 0, 0);
+  background: linear-gradient(50deg, rgba(0, 0, 0, 1) 0%, rgba(50, 50, 50, 1) 40%, rgba(52, 52, 52, 1) 50%, rgba(47, 47, 47, 1) 60%, rgba(0, 0, 0, 1) 100%);
+  background-repeat: no-repeat;
+  background-size: 100% 400%;
+  height: 100%;
+}
+
+div{
+  color: white;
+}
+
+th{
+  color: white;
+}
+
+td {
+  color: white;
+}
+
+
+
+.selectedElement {
+  border: 2px red solid
+}
+
+.titleFont{
+  color: white;
+  font-size: 50px;
+  font-family: 'Olde English', sans-serif;
+}
